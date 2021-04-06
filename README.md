@@ -7,7 +7,7 @@ These demos are avialable in two ways
 - here in instruction & architecture diagram form for free
 - as part of [https://learn.cantrill.io](https://learn.cantrill.io) courses - including theory lessons and guided videos.
 
-The free versions here are fully functional, with instructions & architecture diagrams and are maintained by me.test
+The free versions here are fully functional, with instructions & architecture diagrams and are maintained by me.
 
 All demos have a structure ...
 - `01_LABSETUP` contains assets required for the DEMO
