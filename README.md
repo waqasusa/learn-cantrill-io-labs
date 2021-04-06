@@ -13,7 +13,7 @@ All demos have a structure ...
 - `01_LABSETUP` contains assets required for the DEMO
 - `02_LABINSTRUCTIONS` contains text instructions and architecture diagrams
 
-Video guided versions are available in my courses at https://learn.cantrill.io
+Video guided versions are available in my courses at https://learn.cantrill.io . This is updated docs.
 
 ## Demo List (Order of creation!)
 
@@ -27,3 +27,4 @@ Video guided versions are available in my courses at https://learn.cantrill.io
 8. [Building a serverless application using Web Identity Federation](https://github.com/acantril/learn-cantrill-io-labs/tree/master/aws-cognito-web-identity-federation)
 9. test
 10. validation
+
