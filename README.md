@@ -26,3 +26,4 @@ Video guided versions are available in my courses at https://learn.cantrill.io
 7. [Database Migration using DMS](https://github.com/acantril/learn-cantrill-io-labs/tree/master/aws-dms-database-migration)
 8. [Building a serverless application using Web Identity Federation](https://github.com/acantril/learn-cantrill-io-labs/tree/master/aws-cognito-web-identity-federation)
 9. test
+10. validation
